@@ -1,0 +1,5 @@
+.env
+_pycache_
+db.sqlite3
+aenv
+
